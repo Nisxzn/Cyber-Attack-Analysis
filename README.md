@@ -10,7 +10,7 @@ A comprehensive data visualization and analysis project tracking global cyber at
 
 ![Cyber Attack Analysis Dashboard](Output.png)
 
-## 🎯 Key Insights & Metrics
+##  Key Insights & Metrics
 
 The dashboard analyzes a dataset covering global cyber incidents between **2016 and 2024**, highlighting several critical metrics:
 
