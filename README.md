@@ -40,4 +40,4 @@ The dashboard analyzes a dataset covering global cyber incidents between **2016 
 -   **Cybersecurity Datasets** - Global Incident data
 
 ---
-*Created with ❤️ for Cyber Security Awareness*
+*Created by nithish for academic purpose*
