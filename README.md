@@ -1,4 +1,4 @@
-# 🛡️ Cyber Attack Analysis Dashboard
+# Cyber Attack Analysis Dashboard
 
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Cyber Security](https://img.shields.io/badge/Cyber_Security-EA4335?style=for-the-badge&logo=google-cloud&logoColor=white)](https://en.wikipedia.org/wiki/Computer_security)
