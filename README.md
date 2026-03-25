@@ -21,7 +21,7 @@ The dashboard analyzes a dataset covering global cyber incidents between **2016 
 -   **🏢 Target Industries**: **IT**, **Banking**, and **Healthcare** emerge as the most frequently targeted sectors.
 -   **🛠️ Defense Effectiveness**: Analysis of resolution times using various mechanisms like **VPN**, **AI-based detection**, **Encryption**, **Antivirus**, and **Firewall**.
 
-## 🔍 Features
+##  Features
 
 -   **Temporal Analysis**: Track the rise and fall of cyber attacks from 2016 to 2024.
 -   **Correlation Mapping**: Relationship between the number of affected users and financial losses across different attack types.
