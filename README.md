@@ -6,7 +6,7 @@
 
 A comprehensive data visualization and analysis project tracking global cyber attack trends, financial impacts, and defense effectiveness using **Power BI**. This project provides deep insights into the evolving landscape of cybersecurity threats across different industries and regions.
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 ![Cyber Attack Analysis Dashboard](Output.png)
 
