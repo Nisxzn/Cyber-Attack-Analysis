@@ -29,7 +29,7 @@ The dashboard analyzes a dataset covering global cyber incidents between **2016 
 -   **Source Attribution**: Detailed breakdown of attack sources (Hacker Groups, Nation-states, Insiders, etc.) per industry.
 -   **Defense Benchmarking**: Comparison of average resolution times across different security layers.
 
-## 🚀 How to View the Project
+##  How to View the Project
 
 1.  **Direct Image**: View the [Output.png](Output.png) file for a quick snapshot of the dashboard.
 2.  **Power BI File**: Download the [EDA.pbix](EDA.pbix) file and open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop/) to interact with the data filters and visualizations.
